@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ಖಾತೆ</string>
+    <string name="dashboard_title">ಗ್ರಾಮ-ಖಾತೆ</string>
+    <string name="add_customer">ಗ್ರಾಹಕರನ್ನು ಸೇರಿಸಿ</string>
+    <string name="search_hint">ಗ್ರಾಹಕರನ್ನು ಹುಡುಕಿ...</string>
+    <string name="business_insights">ವ್ಯಾಪಾರ ಒಳನೋಟಗಳು</string>
+    <string name="language_selection">ಭಾಷೆ ಆಯ್ಕೆ</string>
+    <string name="today">ಇಂದು</string>
+    <string name="yesterday">ನಿನ್ನೆ</string>
+    
+    <!-- Transaction Screen -->
+    <string name="new_entry">ಹೊಸ ಪ್ರವೇಶ</string>
+    <string name="save_entry">ಪ್ರವೇಶ ಉಳಿಸಿ</string>
+    <string name="give_dr">ಕೊಟ್ಟಿದ್ದು (DR)</string>
+    <string name="take_cr">ಪಡೆದದ್ದು (CR)</string>
+    <string name="amount">ಮೊತ್ತ</string>
+    <string name="note">ಟಿಪ್ಪಣಿ (ಐಚ್ಛಿಕ)</string>
+    <string name="select_date">ದಿನಾಂಕ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="entry_for">ಇವರಿಗಾಗಿ ಪ್ರವೇಶ</string>
+    <string name="current_balance_label">ಪ್ರಸ್ತುತ ಬಾಕಿ: ₹%1$d (%2$s)</string>
+    <string name="loading">ಲೋಡ್ ಆಗುತ್ತಿದೆ...</string>
+    <string name="due">ಬಾಕಿ</string>
+    <string name="advance">ಮುಂಗಡ</string>
+    
+    <!-- Customer Details -->
+    <string name="customer_details">ಗ್ರಾಹಕರ ವಿವರಗಳು</string>
+    <string name="total_due">ಒಟ್ಟು ಬಾಕಿ</string>
+    <string name="total_advance">ಒಟ್ಟು ಮುಂಗಡ</string>
+    <string name="total_balance">ಒಟ್ಟು ಬಾಕಿ</string>
+    <string name="transaction_history">ವಹಿವಾಟಿನ ಇತಿಹಾಸ</string>
+    <string name="sms_reminder_msg">ನಮಸ್ಕಾರ %1$s, ನಿಮ್ಮ ₹%2$d ಪಾವತಿಯು ಗ್ರಾಮ-ಖಾತೆಯಲ್ಲಿ ಬಾಕಿ ಇದೆ. ದಯವಿಟ್ಟು ಇದನ್ನು ಆದಷ್ಟು ಬೇಗ ಪಾವತಿಸಿ.</string>
+    
+    <!-- Reminders -->
+    <string name="reminders">ಜ್ಞಾಪನೆಗಳು</string>
+    <string name="send_reminder">ಜ್ಞಾಪನೆ ಕಳುಹಿಸಿ</string>
+    <string name="no_overdue_found">ಯಾವುದೇ ಬಾಕಿ ಪಾವತಿಗಳು ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="priority_followups">ಆದ್ಯತೆಯ ಅನುಸರಣೆಗಳು</string>
+    <string name="overdue_payments_count">%1$d ಬಾಕಿ ಪಾವತಿಗಳು</string>
+    <string name="total_outstanding">ಒಟ್ಟು ಬಾಕಿ: ₹%1$d</string>
+    <string name="days_overdue">₹%1$d • %2$d ದಿನಗಳ ಬಾಕಿ</string>
+    <string name="send_btn">ಕಳುಹಿಸಿ</string>
+    
+    <!-- Preferences -->
+    <string name="app_preferences">ಅಪ್ಲಿಕೇಶನ್ ಆದ್ಯತೆಗಳು</string>
+    <string name="dark_mode">ಡಾರ್ಕ್ ಮೋಡ್</string>
+    <string name="enable_notifications">ಅಧಿಸೂಚನೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="cloud_backup">ಕ್ಲೌಡ್ ಬ್ಯಾಕಪ್</string>
+    <string name="fingerprint_lock">ಫಿಂಗರ್ಪ್ರಿಂಟ್ ಲಾಕ್</string>
+    
+    <!-- Help & Support -->
+    <string name="help_support">ಸಹಾಯ ಮತ್ತು ಬೆಂಬಲ</string>
+    <string name="contact_us">ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="call_us">ನಮಗೆ ಕರೆ ಮಾಡಿ</string>
+    <string name="whatsapp">ವಾಟ್ಸಾಪ್</string>
+    <string name="top_questions">ಉನ್ನತ ಪ್ರಶ್ನೆಗಳು</string>
+    <string name="raise_ticket">ಸಪೋರ್ಟ್ ಟಿಕೆಟ್ ನೀಡಿ</string>
+    <string name="faq_1">ಹೊಸ ಗ್ರಾಹಕರನ್ನು ಸೇರಿಸುವುದು ಹೇಗೆ?</string>
+    <string name="faq_2">ವಹಿವಾಟನ್ನು ಸಂಪಾದಿಸುವುದು ಹೇಗೆ?</string>
+    <string name="faq_3">ನನ್ನ ಡೇಟಾವನ್ನು ನಾನು ಬ್ಯಾಕಪ್ ಮಾಡಬಹುದೇ?</string>
+    <string name="faq_4">ನನ್ನ ಡೇಟಾ ಸುರಕ್ಷಿತವಾಗಿದೆಯೇ?</string>
+    <string name="faq_5">ವರದಿಗಳನ್ನು ರಚಿಸುವುದು ಹೇಗೆ?</string>
+    
+    <!-- About -->
+    <string name="about_grama_khata">ಗ್ರಾಮ-ಖಾತೆ ಬಗ್ಗೆ</string>
+    <string name="mission">ಗುರಿ</string>
+    <string name="follow_us">ನಮ್ಮನ್ನು ಅನುಸರಿಸಿ</string>
+    <string name="rural_empowerment">ಗ್ರಾಮೀಣ ಸಬಲೀಕರಣಕ್ಕಾಗಿ ಡಿಜಿಟಲ್ ಲೆಡ್ಜರ್</string>
+    <string name="app_version">ಆವೃತ್ತಿ 1.0.0 ಸ್ಥಿರ</string>
+    <string name="mission_desc">ಸಾಂಪ್ರದಾಯಿಕ ಕಾಗದದ ಲೆಡ್ಜರ್‌ಗಳನ್ನು ಡಿಜಿಟಲೀಕರಣಗೊಳಿಸುವ ಮೂಲಕ ಗ್ರಾಮೀಣ ಪ್ರದೇಶದ ಸ್ಥಳೀಯ ಅಂಗಡಿಯವರು ಮತ್ತು ಸಣ್ಣ ಉದ್ಯಮಗಳನ್ನು ಸಬಲೀಕರಣಗೊಳಿಸಲು ಗ್ರಾಮ-ಖಾತೆಯನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ಹಣಕಾಸಿನ ನಿರ್ವಹಣೆಯನ್ನು ಸರಳ, ಪಾರದರ್ಶಕ ಮತ್ತು ಎಲ್ಲರಿಗೂ ಲಭ್ಯವಾಗುವಂತೆ ಮಾಡುವುದು ನಮ್ಮ ಗುರಿಯಾಗಿದೆ.</string>
+    <string name="tos">ಸೇವಾ ನಿಯಮಗಳು</string>
+    <string name="privacy_policy">ಗೌಪ್ಯತಾ ನೀತಿ</string>
+    <string name="licenses">ಪರವಾನಗಿಗಳು</string>
+    <string name="made_with_love">ಗ್ರಾಮೀಣ ಭಾರತಕ್ಕಾಗಿ ❤️ ನೊಂದಿಗೆ ಮಾಡಲಾಗಿದೆ</string>
+
+    <!-- Reports -->
+    <string name="financial_overview">ಹಣಕಾಸು ಅವಲೋಕನ</string>
+    <string name="cash_flow_analysis">ನಗದು ಹರಿವಿನ ವಿಶ್ಲೇಷಣೆ</string>
+    <string name="no_data_available">ಯಾವುದೇ ವಹಿವಾಟು ಡೇಟಾ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="dues_distribution">ಬಾಕಿ ವಿತರಣೆ</string>
+    <string name="no_pending_dues">ತೋರಿಸಲು ಯಾವುದೇ ಬಾಕಿ ಇಲ್ಲ</string>
+    <string name="pending_gt_30">30 ದಿನಗಳಿಗಿಂತ ಹೆಚ್ಚು ಬಾಕಿ</string>
+    <string name="pending_15_30">15-30 ದಿನಗಳ ಬಾಕಿ</string>
+    <string name="pending_lt_15">15 ದಿನಗಳಿಗಿಂತ ಕಡಿಮೆ ಬಾಕಿ</string>
+    <string name="total_give_label">ಒಟ್ಟು ಕೊಟ್ಟಿದ್ದು</string>
+    <string name="total_take_label">ಒಟ್ಟು ಪಡೆದದ್ದು</string>
+
+    <!-- Add Customer -->
+    <string name="add_new_customer">ಹೊಸ ಗ್ರಾಹಕರನ್ನು ಸೇರಿಸಿ</string>
+    <string name="add_profile_photo">ಪ್ರೊಫೈಲ್ ಫೋಟೋ ಸೇರಿಸಿ</string>
+    <string name="change_photo">ಫೋಟೋ ಬದಲಾಯಿಸಿ</string>
+    <string name="customer_name">ಗ್ರಾಹಕರ ಹೆಸರು</string>
+    <string name="phone_number">ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="save_customer">ಗ್ರಾಹಕರನ್ನು ಉಳಿಸಿ</string>
+
+    <!-- Dashboard Dialogs & States -->
+    <string name="delete_customer_title">ಗ್ರಾಹಕರನ್ನು ಅಳಿಸಿ</string>
+    <string name="delete_customer_msg">%1$s ಗ್ರಾಹಕರನ್ನು ಅಳಿಸಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ? ಇದು ಅವರ ಎಲ್ಲಾ ವಹಿವಾಟು ದಾಖಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ.</string>
+    <string name="delete">ಅಳಿಸಿ</string>
+    <string name="cancel">ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="customers_count">%1$d ಗ್ರಾಹಕರು</string>
+    <string name="no_customers_yet">ಇನ್ನೂ ಯಾವುದೇ ಗ್ರಾಹಕರನ್ನು ಸೇರಿಸಿಲ್ಲ</string>
+    <string name="no_matching_customers">ಯಾವುದೇ ಗ್ರಾಹಕರು ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="add_first_customer">ನಿಮ್ಮ ಮೊದಲ ಗ್ರಾಹಕರನ್ನು ಸೇರಿಸಿ</string>
+</resources>

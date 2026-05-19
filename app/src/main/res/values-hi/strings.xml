@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">ग्राम-खाता</string>
+    <string name="dashboard_title">ग्राम-खाता</string>
+    <string name="add_customer">ग्राहक जोड़ें</string>
+    <string name="search_hint">ग्राहकों को खोजें...</string>
+    <string name="business_insights">व्यापार अंतर्दृष्टि</string>
+    <string name="language_selection">भाषा चयन</string>
+    <string name="today">आज</string>
+    <string name="yesterday">कल</string>
+    
+    <!-- Transaction Screen -->
+    <string name="new_entry">नई प्रविष्टि</string>
+    <string name="save_entry">प्रविष्टि सहेजें</string>
+    <string name="give_dr">दिए (DR)</string>
+    <string name="take_cr">लिए (CR)</string>
+    <string name="amount">राशि</string>
+    <string name="note">नोट (वैकल्पिक)</string>
+    <string name="select_date">तारीख चुनें</string>
+    <string name="entry_for">के लिए प्रविष्टि</string>
+    <string name="current_balance_label">वर्तमान शेष: ₹%1$d (%2$s)</string>
+    <string name="loading">लोड हो रहा है...</string>
+    <string name="due">बकाया</string>
+    <string name="advance">अग्रिम</string>
+    
+    <!-- Customer Details -->
+    <string name="customer_details">ग्राहक विवरण</string>
+    <string name="total_due">कुल देय</string>
+    <string name="total_advance">कुल अग्रिम</string>
+    <string name="total_balance">कुल शेष</string>
+    <string name="transaction_history">लेन-देन इतिहास</string>
+    <string name="sms_reminder_msg">नमस्ते %1$s, आपका ₹%2$d का भुगतान ग्राम-खाता में बकाया है। कृपया इसे जल्द से जल्द चुकाएं।</string>
+    
+    <!-- Reminders -->
+    <string name="reminders">अनुस्मारक</string>
+    <string name="send_reminder">अनुस्मारक भेजें</string>
+    <string name="no_overdue_found">कोई बकाया भुगतान नहीं मिला</string>
+    <string name="priority_followups">प्राथमिकता अनुवर्ती</string>
+    <string name="overdue_payments_count">%1$d बकाया भुगतान</string>
+    <string name="total_outstanding">कुल बकाया: ₹%1$d</string>
+    <string name="days_overdue">₹%1$d • %2$d दिन बकाया</string>
+    <string name="send_btn">भेजें</string>
+    
+    <!-- Preferences -->
+    <string name="app_preferences">ऐप प्राथमिकताएं</string>
+    <string name="dark_mode">डार्क मोड</string>
+    <string name="enable_notifications">सूचनाएं सक्षम करें</string>
+    <string name="cloud_backup">क्लाउड बैकअप</string>
+    <string name="fingerprint_lock">फिंगरप्रिंट लॉक</string>
+    
+    <!-- Help & Support -->
+    <string name="help_support">सहायता और समर्थन</string>
+    <string name="contact_us">हमसे संपर्क करें</string>
+    <string name="call_us">हमें कॉल करें</string>
+    <string name="whatsapp">व्हाट्सएप</string>
+    <string name="top_questions">शीर्ष प्रश्न</string>
+    <string name="raise_ticket">सपोर्ट टिकट उठाएं</string>
+    <string name="faq_1">नया ग्राहक कैसे जोड़ें?</string>
+    <string name="faq_2">लेन-देन कैसे संपादित करें?</string>
+    <string name="faq_3">क्या मैं अपने डेटा का बैकअप ले सकता हूँ?</string>
+    <string name="faq_4">क्या मेरा डेटा सुरक्षित है?</string>
+    <string name="faq_5">रिपोर्ट कैसे तैयार करें?</string>
+    
+    <!-- About -->
+    <string name="about_grama_khata">ग्राम-खाता के बारे में</string>
+    <string name="mission">लक्ष्य</string>
+    <string name="follow_us">हमारा अनुसरण करें</string>
+    <string name="rural_empowerment">ग्रामीण सशक्तिकरण के लिए डिजिटल लेजर</string>
+    <string name="app_version">संस्करण 1.0.0 स्थिर</string>
+    <string name="mission_desc">ग्राम-खाता को पारंपरिक पेपर बहीखातों को डिजिटल बनाकर ग्रामीण क्षेत्रों में स्थानीय दुकानदारों और छोटे व्यवसायों को सशक्त बनाने के लिए डिज़ाइन किया गया है। हमारा लक्ष्य वित्तीय प्रबंधन को सरल, पारदर्शी और सभी के लिए सुलभ बनाना है।</string>
+    <string name="tos">सेवा की शर्तें</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="licenses">लाइसेंस</string>
+    <string name="made_with_love">ग्रामीण भारत के लिए ❤️ के साथ बनाया गया</string>
+
+    <!-- Reports -->
+    <string name="financial_overview">वित्तीय अवलोकन</string>
+    <string name="cash_flow_analysis">नकदी प्रवाह विश्लेषण</string>
+    <string name="no_data_available">कोई लेनदेन डेटा उपलब्ध नहीं है</string>
+    <string name="dues_distribution">बकाया वितरण</string>
+    <string name="no_pending_dues">दिखाने के लिए कोई बकाया नहीं है</string>
+    <string name="pending_gt_30">30 दिनों से अधिक बकाया</string>
+    <string name="pending_15_30">15-30 दिनों से बकाया</string>
+    <string name="pending_lt_15">15 दिनों से कम बकाया</string>
+    <string name="total_give_label">कुल दिए</string>
+    <string name="total_take_label">कुल लिए</string>
+
+    <!-- Add Customer -->
+    <string name="add_new_customer">नया ग्राहक जोड़ें</string>
+    <string name="add_profile_photo">प्रोफ़ाइल फ़ोटो जोड़ें</string>
+    <string name="change_photo">फ़ोटो बदलें</string>
+    <string name="customer_name">ग्राहक का नाम</string>
+    <string name="phone_number">फ़ोन नंबर</string>
+    <string name="save_customer">ग्राहक सहेजें</string>
+
+    <!-- Dashboard Dialogs & States -->
+    <string name="delete_customer_title">ग्राहक हटाएं</string>
+    <string name="delete_customer_msg">क्या आप वाकई %1$s को हटाना चाहते हैं? यह उनके सभी लेन-देन रिकॉर्ड हटा देगा।</string>
+    <string name="delete">हटाएं</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="customers_count">%1$d ग्राहक</string>
+    <string name="no_customers_yet">अभी तक कोई ग्राहक नहीं जोड़ा गया है</string>
+    <string name="no_matching_customers">कोई मिलान करने वाला ग्राहक नहीं मिला</string>
+    <string name="add_first_customer">अपना पहला ग्राहक जोड़ें</string>
+</resources>

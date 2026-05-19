@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Grama-Khata</string>
+    <string name="dashboard_title">Grama-Khata</string>
+    <string name="add_customer">ADD CUSTOMER</string>
+    <string name="search_hint">Search customers...</string>
+    <string name="business_insights">Business Insights</string>
+    <string name="language_selection">Language Selection</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    
+    <!-- Transaction Screen -->
+    <string name="new_entry">New Entry</string>
+    <string name="save_entry">SAVE ENTRY</string>
+    <string name="give_dr">GIVE (DR)</string>
+    <string name="take_cr">TAKE (CR)</string>
+    <string name="amount">Amount</string>
+    <string name="note">Note (Optional)</string>
+    <string name="select_date">Select Date</string>
+    <string name="entry_for">Entry for</string>
+    <string name="current_balance_label">Current Balance: ₹%1$d (%2$s)</string>
+    <string name="loading">Loading...</string>
+    <string name="due">Due</string>
+    <string name="advance">Advance</string>
+    
+    <!-- Customer Details -->
+    <string name="customer_details">Customer Details</string>
+    <string name="total_due">Total Due</string>
+    <string name="total_advance">Total Advance</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="sms_reminder_msg">Hello %1$s, your payment of ₹%2$d is pending in Grama-Khata. Please clear it at the earliest.</string>
+    
+    <!-- Reminders -->
+    <string name="reminders">Reminders</string>
+    <string name="send_reminder">SEND REMINDER</string>
+    <string name="no_overdue_found">No overdue payments found</string>
+    <string name="priority_followups">Priority Follow-ups</string>
+    <string name="overdue_payments_count">%1$d Overdue Payments</string>
+    <string name="total_outstanding">Total Outstanding: ₹%1$d</string>
+    <string name="days_overdue">₹%1$d • %2$d days overdue</string>
+    <string name="send_btn">SEND</string>
+    
+    <!-- Preferences -->
+    <string name="app_preferences">App Preferences</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="cloud_backup">Cloud Backup</string>
+    <string name="fingerprint_lock">Fingerprint Lock</string>
+    
+    <!-- Help & Support -->
+    <string name="help_support">Help &amp; Support</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="call_us">Call Us</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="top_questions">Top Questions</string>
+    <string name="raise_ticket">RAISE A SUPPORT TICKET</string>
+    <string name="faq_1">How to add a new customer?</string>
+    <string name="faq_2">How to edit a transaction?</string>
+    <string name="faq_3">Can I backup my data?</string>
+    <string name="faq_4">Is my data safe?</string>
+    <string name="faq_5">How to generate reports?</string>
+    
+    <!-- About -->
+    <string name="about_grama_khata">About Grama-Khata</string>
+    <string name="mission">Mission</string>
+    <string name="follow_us">Follow Us</string>
+    <string name="rural_empowerment">Digital Ledger for Rural Empowerment</string>
+    <string name="app_version">Version 1.0.0 Stable</string>
+    <string name="mission_desc">Grama-Khata is designed to empower local shopkeepers and small businesses in rural areas by digitizing traditional paper ledgers. Our goal is to make financial management simple, transparent, and accessible to everyone.</string>
+    <string name="tos">Terms of Service</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="licenses">Licenses</string>
+    <string name="made_with_love">Made with ❤️ for Rural India</string>
+
+    <!-- Reports -->
+    <string name="financial_overview">Financial Overview</string>
+    <string name="cash_flow_analysis">Cash Flow Analysis</string>
+    <string name="no_data_available">No transaction data available</string>
+    <string name="dues_distribution">Dues Distribution</string>
+    <string name="no_pending_dues">No pending dues to display</string>
+    <string name="pending_gt_30">Pending > 30 days</string>
+    <string name="pending_15_30">Pending 15-30 days</string>
+    <string name="pending_lt_15">Pending &lt; 15 days</string>
+    <string name="total_give_label">Total Give</string>
+    <string name="total_take_label">Total Take</string>
+    <string name="export_to_excel">Export to Excel</string>
+    <string name="export_success">Data exported successfully</string>
+    <string name="export_failed">Failed to export data: %1$s</string>
+    <string name="no_transactions_to_export">No transactions to export</string>
+    <string name="sharing_file">Preparing file for sharing...</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="all_time">All Time</string>
+
+    <!-- Add Customer -->
+    <string name="add_new_customer">Add New Customer</string>
+    <string name="add_profile_photo">Add Profile Photo</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save_customer">SAVE CUSTOMER</string>
+
+    <!-- Dashboard Dialogs & States -->
+    <string name="delete_customer_title">Delete Customer</string>
+    <string name="delete_customer_msg">Are you sure you want to delete %1$s? This will remove all their transaction records.</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="customers_count">%1$d Customers</string>
+    <string name="no_customers_yet">No customers added yet</string>
+    <string name="no_matching_customers">No matching customers found</string>
+    <string name="add_first_customer">Add your first customer</string>
+    <string name="no_transactions">No transactions</string>
+    <string name="faq_answer_1">To add a new customer, click the \"+\" button on the dashboard. Fill in the customer name and phone number, then click \"Save Customer\".</string>
+    <string name="faq_answer_2">Currently, you can delete a customer by long-pressing their name on the dashboard. To change a transaction, we recommend adding a corrective entry.</string>
+    <string name="faq_answer_3">Yes, your data is automatically saved on your device. Cloud backup features are coming soon in future updates.</string>
+    <string name="faq_answer_4">Absolutely! Your data is stored locally on your device and is not shared with anyone. Your privacy is our priority.</string>
+    <string name="faq_answer_5">Go to the \"Business Insights\" screen from the dashboard. You can view your financial overview and dues distribution there.</string>
+</resources>
