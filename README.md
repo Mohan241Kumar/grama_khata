@@ -1,93 +1,91 @@
-Grama Khata is a modern Android-based digital ledger application designed for small shopkeepers and local businesses to manage customer transactions efficiently. The application replaces traditional handwritten account books with a clean and user-friendly digital solution.
+# 📘 Grama-Khata — Smart Village Ledger
 
-The project was developed as part of an internship project and focuses on simplifying daily credit and payment tracking for shop owners.
+## 🏪 Project Overview
 
-Features
+Grama-Khata is an AI-powered first digital ledger application designed for village shopkeepers, grocery stores, local merchants, and rural businesses. The application replaces traditional paper Khata books with a modern Android-based smart financial management system.
 
-* Add and manage customer accounts
-* Record credit and debit transactions
-* Maintain transaction history
-* View customer balance details
-* Simple and clean user interface
-* Fast and lightweight application
-* Built using modern Android development practices
+The app helps shopkeepers:
 
-Tech Stack
+- Manage customer credits and payments
+- Track pending balances
+- Analyze customer payment behavior
+- Generate reports and insights
+- Send smart reminders
+- Work offline without internet
 
-Frontend
+Built using:
 
-* Kotlin
-* Jetpack Compose
-* Material Design
+- Kotlin
+- Jetpack Compose
+- Room Database
+- MVVM Architecture
+- Material 3
 
-Backend / Database
 
-* Room Database
 
-Development Tools
+# 🎯 Problem Statement
 
-* Android Studio
-* Git & GitHub
+Many village shops and small businesses still use paper notebooks to maintain customer credit records. These records are difficult to manage, easy to lose, and do not provide smart financial insights. Shopkeepers face problems in tracking dues, managing payments, and reminding customers about pending balances.
 
-Project Objective
+Grama-Khata solves this problem by providing a modern AI-powered offline-first ledger application that simplifies credit management and helps rural businesses digitize their operations.
 
-The main objective of Grama Khata is to help small-scale shopkeepers digitally maintain their daily customer ledger records. Instead of manually writing transactions in notebooks, users can store and manage records digitally in a more organized and accessible manner.
 
-The application aims to:
 
-* Reduce manual errors
-* Improve transaction management
-* Provide easy access to customer records
-* Modernize traditional bookkeeping methods
+# 🚀 Features
 
-Project Workflow
 
-1. Requirement analysis and planning
-2. UI/UX design using Jetpack Compose
-3. Development of customer and transaction modules
-4. Integration of navigation and data handling
-5. Testing and debugging
-6. Future enhancement planning with Firebase integration
+## ✅ Digital Ledger
+- Store customer credit and payment records digitally
 
-Screens / Modules
+## ✅ AI Financial Insights
+- Analyze customer behavior and payment reliability
 
-* Home Dashboard
-* Customer Management
-* Transaction Entry
-* Balance Overview
-* Transaction History
+## ✅ Smart Reminder System
+- Generate payment reminders for customers
 
-Future Enhancements
+## ✅ Reports & Analytics
+- Track sales, dues, and business performance
 
-* Firebase Authentication
-* Cloud database integration
-* Payment reminder notifications
-* Search and filter functionality
-* Export transaction reports
-* Multi-language support
-* Dark mode support
+## ✅ Kannada + English Support
+- Dual-language accessibility
 
-Learning Outcomes
+## ✅ QR Payment Support
+- UPI QR code integration
 
-Through this project, the following skills were improved:
 
-* Android application development
-* Kotlin programming
-* Jetpack Compose UI development
-* Navigation handling
-* State management
-* GitHub version control
-* Problem-solving and debugging
 
-Project Status
+# 🧱 Technology Stack
 
-The current version of the application successfully demonstrates the core digital ledger functionality. Additional features and cloud integration are planned for future updates.
+| Technology | Usage |
+|---|---|
+| Kotlin | Android Development |
+| Jetpack Compose | UI Development |
+| Room Database | Offline Storage |
+| MVVM | Architecture Pattern |
+| Material 3 | Modern UI Components |
 
-Author
+#Screenshot of App
 
-Mohammed Zaid N
-B.Tech Computer Science and Design Student
+<img width="240" height="520" alt="image" src="https://github.com/user-attachments/assets/21f9116d-3d20-4d2a-887a-a665776b7358" />
 
-License
+<img width="240" height="520" alt="image" src="https://github.com/user-attachments/assets/d4ac782d-4f6d-4518-aca6-79d0353a16b0" />
 
-This project is created for educational and internship purposes.
+<img width="240" height="520" alt="image" src="https://github.com/user-attachments/assets/1a1685c3-0037-4f90-8cc1-dc2aaef70ffc" />
+
+<img width="240" height="520" alt="image" src="https://github.com/user-attachments/assets/d161c5b1-c961-43cd-be7b-0245a77e559d" />
+
+<img width="240" height="520" alt="image" src="https://github.com/user-attachments/assets/4847b8f3-6fff-4ee6-99d0-a8e6335e0a37" />
+
+<img width="240" height="520" alt="image" src="https://github.com/user-attachments/assets/2b606d35-384b-4163-87df-17589bca1fe1" />
+
+<img width="240" height="520" alt="image" src="https://github.com/user-attachments/assets/13cd4474-84e8-44c5-a7e2-57c92be8f3ee" />
+
+<img width="240" height="520" alt="image" src="https://github.com/user-attachments/assets/fe65fcf3-04c9-44ab-8c33-cde9f0f7d7bf" />
+
+
+
+
+
+
+
+
