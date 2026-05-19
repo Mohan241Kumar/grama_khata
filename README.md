@@ -17,7 +17,7 @@ Built using:
 
 - Kotlin
 - Jetpack Compose
-- Room Database
+- Firebase
 - MVVM Architecture
 - Material 3
 
@@ -60,7 +60,7 @@ Grama-Khata solves this problem by providing a modern AI-powered offline-first l
 |---|---|
 | Kotlin | Android Development |
 | Jetpack Compose | UI Development |
-| Room Database | Offline Storage |
+| firebase | Online Storage |
 | MVVM | Architecture Pattern |
 | Material 3 | Modern UI Components |
 
